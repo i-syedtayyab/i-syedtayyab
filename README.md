@@ -19,3 +19,7 @@
 
 <h3 align="left">My Learning Resources:</h3>
 <p align="left"> <a href="https://www.datacamp.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/6276968?s=280&v=4" alt="datacamp" width="40" height="40"/> </a> <a href="https://www.youtube.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.a9b50bff2eb7f69ae0aec375a2704452?rik=A2J2wdlyKzKhkA&pid=ImgRaw&r=0" alt="youtube" width="40" height="40"/> </a>  <a href="https://www.w3schools.com" target="_blank" rel="noreferrer"> <img src="https://logospng.org/download/w3schools/w3schools-4096.png" alt="w3schools" width="40" height="40"/> <a href="https://www.geeksforgeeks.org" target="_blank" rel="noreferrer"> <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="geeksforgeeks" width="40" height="40"/> </a> </p>
+
+<h3 align="left">My Leetcode Progress:</h3>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/stayyabtahir18)
