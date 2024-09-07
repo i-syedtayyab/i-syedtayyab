@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/syed-tayyab-tahir-761621175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-tayyab-tahir-761621175/" height="30" width="40" /></a>
 <a href="https://kaggle.com/syedtayyabtahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="syedtayyabtahir" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/stayabtahir18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stayabtahir18" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/stayyabtahir18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stayabtahir18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tools I use:</h3>
