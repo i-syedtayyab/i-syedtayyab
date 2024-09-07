@@ -4,7 +4,7 @@
 
 - 🔬 **Material Scientist** --->  💻 **Data Scientist**
 - 📈 Started my journey by doing Data Analysis on **MS Excel**. Now using **SQL** and **PowerBI**
-- 🌱 I’m currently learning **Python, Pandas, Pytorch** 
+- 🌱 I’m currently learning **Python and Pandas** 
 - 📫 You can reach me at **stayyabtahir18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
