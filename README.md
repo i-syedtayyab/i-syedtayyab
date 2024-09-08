@@ -30,4 +30,6 @@
 
 <h3 align="left">My Leetcode Progress:</h3>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/stayyabtahir18)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/stayyabtahir18?theme=wtf" alt="LeetCode Progress">
+</p>
